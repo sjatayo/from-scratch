@@ -1,6 +1,6 @@
 import "../styles/nav.scss";
 
-export default function Nav(){
+export default function Nav({username}){
 return(
     <header>
         <nav>
